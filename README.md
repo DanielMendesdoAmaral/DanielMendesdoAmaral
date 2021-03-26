@@ -2,9 +2,12 @@
 
 Stack principal:
 
-__ASP.NET Core__ [![C#](https://img.shields.io/badge/-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)[![.NET](https://img.shields.io/badge/-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
-[![React](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) __React__
-[![ReactNative](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) __React Native__
+__Backend:__ 
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
+__Frontend:__
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) 
+__Mobile:__
+[![ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 
 
 
