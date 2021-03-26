@@ -1,4 +1,7 @@
 ## Desenvolvedor full stack 
 
-#### C# com ASP.NET CORE 🌐
-> Web API/MVC, EF Core
+Algumas tecnologias da minha stack:
+
+#### ASP.NET CORE 🌐
+#### React
+#### React Native
