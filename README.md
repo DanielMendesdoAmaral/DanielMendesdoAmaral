@@ -12,5 +12,6 @@
 
 
 
-
+<div style="text-align: center;">
 [![HitCount](http://hits.dwyl.com/DanielMendesdoAmaral/DanielMendesdoAmaral.svg)](http://hits.dwyl.com/DanielMendesdoAmaral/DanielMendesdoAmaral)
+</div>
