@@ -4,4 +4,4 @@ __ASP.NET Core
 React
 React Native__
 
-[![HitCount](http://hits.dwyl.com/DanielMendesdoAmaral/DanielMendesdoAmaral.svg)](http://hits.dwyl.com/DanielMendesdoAmaral/DanielMendesdoAmaral)
+[![teste](http://hits.dwyl.com/DanielMendesdoAmaral/DanielMendesdoAmaral.svg)](http://hits.dwyl.com/DanielMendesdoAmaral/DanielMendesdoAmaral)
