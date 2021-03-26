@@ -1,7 +1,7 @@
 ## Desenvolvedor full stack 
 
-Algumas tecnologias da minha stack:
+__ASP.NET Core
+React
+React Native__
 
-#### ASP.NET CORE 🌐
-#### React
-#### React Native
+[![HitCount](http://hits.dwyl.com/DanielMendesdoAmaral/DanielMendesdoAmaral.svg)](http://hits.dwyl.com/DanielMendesdoAmaral/DanielMendesdoAmaral)
