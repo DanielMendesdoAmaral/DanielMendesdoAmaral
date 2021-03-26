@@ -1,11 +1,13 @@
 ## Desenvolvedor full stack 
 
-__ASP.NET Core
-React
-React Native__
+Stack principal:
+
+__ASP.NET Core__ [![C#](https://img.shields.io/badge/-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)[![.NET](https://img.shields.io/badge/-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
+[![React](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) __React__
+[![ReactNative](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) __React Native__
 
 
-[![React](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+
 
 [![LinkedIn](https://img.shields.io/badge/DanielAmaral-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-amaral-0670a51a1/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511982039269)
